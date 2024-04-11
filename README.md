@@ -1,4 +1,4 @@
-#HULU 2.0
+# HULU 2.0
 
 A website where you can search for your favourate movies, webseries or tv shows and get details like IMDB ratings, production house details, etc. You can also stream the trailers for the same using in-built streamer.
 
